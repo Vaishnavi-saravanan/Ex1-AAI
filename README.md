@@ -1,8 +1,8 @@
 <H3> Name : VAISHNAVI S </H3>
 <H3>Register No : 212222230165 </H3>
 <H3> Experiment 1</H3>
-<H3>DATE:</H3>
-<H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
+
+# Implementation of Bayesian Networks
 
 ## Aim :
 
